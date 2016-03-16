@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.org/kaldi-asr/kaldi.svg?branch=master)]
 (https://travis-ci.org/kaldi-asr/kaldi)
 
-(test push command)
-
 Kaldi Speech Recognition Toolkit
 ================================
 
